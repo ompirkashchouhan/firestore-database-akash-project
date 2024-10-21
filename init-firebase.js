@@ -1,13 +1,14 @@
 // TODO: Replace the following with your app's Firebase project configuration
 var firebaseConfig = {
-    apiKey: "AIzaSyBBjhATrKGW_DXJkrFv3OahAB8rA5tJaho",
-  authDomain: "make-form-use-of-firebase.firebaseapp.com",
-  projectId: "make-form-use-of-firebase",
-  storageBucket: "make-form-use-of-firebase.appspot.com",
-  messagingSenderId: "542963582840",
-  appId: "1:542963582840:web:3bfdff0e8dc6538ef9aa8d",
-  measurementId: "G-J6ESC5HH79"
-  };
+  apiKey: "AIzaSyAyIwv5nEkmJh4bCYbuWNp_Inu0P464N6A",
+  authDomain: "ilearner-93caa.firebaseapp.com",
+  databaseURL: "https://ilearner-93caa-default-rtdb.firebaseio.com",
+  projectId: "ilearner-93caa",
+  storageBucket: "ilearner-93caa.appspot.com",
+  messagingSenderId: "701143921529",
+  appId: "1:701143921529:web:7faff75baecc24266db5a8",
+  measurementId: "G-5VSH662VS6"
+};
   
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
